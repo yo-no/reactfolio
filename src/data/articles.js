@@ -2,15 +2,15 @@ import React from "react";
 
 function article_1() {
 	return {
-		date: "7 May 2023",
-		title: "The Benefits of Cloud Computing",
+		date: "14 Jul 2023",
+		title: "The Advantages of Next.js: Build Exceptional Web Applications Fast",
 		description:
-			"Cloud computing offers a range of benefits, including cost savings and increased flexibility. Find out why more businesses are turning to the cloud.",
+			"There's a reason everyone is so excited about Next.JS.",
 		keywords: [
 			"The Benefits of Cloud Computing",
-			"Tharindu",
-			"Tharindu N",
-			"Tharindu Nayanajith",
+			"Spencer",
+			"Spencer B",
+			"Spencer Blake",
 		],
 		style: `
 				.article-content {
@@ -42,15 +42,15 @@ function article_1() {
 function article_2() {
 	return {
 		date: "7 May 2023",
-		title: "Artificial Intelligence in Healthcare",
+		title: "Music and AI: Revolutionizing the Creative Landscape",
 		description:
-			"AI is transforming the healthcare industry, from improving patient outcomes to streamlining operations. Discover the latest applications of this game-changing technology.",
+			"Will AI replace our favorite rock stars?",
 		style: ``,
 		keywords: [
-			"Artificial Intelligence in Healthcare",
-			"Tharindu",
-			"Tharindu N",
-			"Tharindu Nayanajith",
+			"Music and AI: Revolutionizing the Creative Landscape",
+			"Spencer",
+			"Spencer B",
+			"Spencer Blake",
 		],
 		body: (
 			<React.Fragment>

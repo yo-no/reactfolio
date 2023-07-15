@@ -47,6 +47,11 @@ const About = () => {
 
 								<div className="subtitle about-subtitle">
 									{INFO.about.description}
+									<br/>
+									<br/>
+									<span>
+										If you're feeling particularly adventurous, check out <a href={'https://linktr.ee/poodletheband'}>my band</a>. (But don't say I didn't warn you.)
+									</span>
 								</div>
 							</div>
 
